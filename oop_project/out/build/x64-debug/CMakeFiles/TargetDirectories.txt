@@ -1,0 +1,6 @@
+D:/oop_project/oop_project/out/build/x64-debug/CMakeFiles/oop_project.dir
+D:/oop_project/oop_project/out/build/x64-debug/CMakeFiles/Date.dir
+D:/oop_project/oop_project/out/build/x64-debug/CMakeFiles/Student.dir
+D:/oop_project/oop_project/out/build/x64-debug/CMakeFiles/Research.dir
+D:/oop_project/oop_project/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/oop_project/oop_project/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
